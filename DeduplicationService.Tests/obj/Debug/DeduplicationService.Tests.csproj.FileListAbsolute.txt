@@ -1,0 +1,9 @@
+C:\dev\Repositories\DeduplicationService\DeduplicationService.Tests\bin\Debug\DeduplicationService.Tests.dll
+C:\dev\Repositories\DeduplicationService\DeduplicationService.Tests\bin\Debug\DeduplicationService.Tests.pdb
+C:\dev\Repositories\DeduplicationService\DeduplicationService.Tests\bin\Debug\DeduplicationService.dll
+C:\dev\Repositories\DeduplicationService\DeduplicationService.Tests\bin\Debug\DeduplicationService.pdb
+C:\dev\Repositories\DeduplicationService\DeduplicationService.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Repositories\DeduplicationService\DeduplicationService.Tests\obj\Debug\DeduplicationService.Tests.dll
+C:\dev\Repositories\DeduplicationService\DeduplicationService.Tests\obj\Debug\DeduplicationService.Tests.pdb
+C:\dev\Repositories\DeduplicationService\DeduplicationService.Tests\obj\Debug\Decl\DeduplicationService.Tests.dll
+C:\dev\Repositories\DeduplicationService\DeduplicationService.Tests\obj\Debug\Decl\DeduplicationService.Tests.pdb

@@ -1,0 +1,7 @@
+C:\dev\Repositories\DeduplicationService\DeduplicationService\bin\Debug\DeduplicationService.dll
+C:\dev\Repositories\DeduplicationService\DeduplicationService\bin\Debug\DeduplicationService.pdb
+C:\dev\Repositories\DeduplicationService\DeduplicationService\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Repositories\DeduplicationService\DeduplicationService\obj\Debug\DeduplicationService.dll
+C:\dev\Repositories\DeduplicationService\DeduplicationService\obj\Debug\DeduplicationService.pdb
+C:\dev\Repositories\DeduplicationService\DeduplicationService\obj\Debug\Decl\DeduplicationService.dll
+C:\dev\Repositories\DeduplicationService\DeduplicationService\obj\Debug\Decl\DeduplicationService.pdb
